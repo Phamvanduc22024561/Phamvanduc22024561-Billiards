@@ -1,0 +1,40 @@
+﻿  ball.cpp
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(62,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(67,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(72,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(77,49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(79,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(79,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(109,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(109,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(122,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(130,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(133,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(134,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(166,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(166,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(173,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(192,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(192,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(228,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\ball.cpp(237,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  entity.cpp
+  hole.cpp
+  main.cpp
+C:\Users\Dell\Desktop\Billiards\Game\src\main.cpp(391,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\main.cpp(391,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\main.cpp(413,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\main.cpp(413,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\main.cpp(520,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  renderwindow.cpp
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(60,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(61,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(62,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(63,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(123,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(125,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(158,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Billiards\Game\src\renderwindow.cpp(159,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  tile.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\Dell\Desktop\Billiards\Game\x64\Debug\Game.exe
